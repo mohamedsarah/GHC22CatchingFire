@@ -7,6 +7,6 @@ function activation = extractFeatures(in)
         featureExtractor = yolov3Detector.Network;
         activation = predict(featureExtractor, in, 'Outputs', 'conv2d_2');
     catch % If the detector cannot be loaded
-         activation = s.activation;
+         activation = dlarray(s.activation, 'SSCB');
     end
 end
