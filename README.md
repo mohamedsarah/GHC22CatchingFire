@@ -11,7 +11,7 @@ You will be provided with a temporary workshop license that will give you access
 
 ## Join the Slack Channel
 For troubleshooting help, please join the following Slack group. Our teaching assistants are monitoring the channel ‘catching-fire-autonomous-drones-for-wildfire-detection’:
-https://mathworksatghc22.slack.com/join/shared_invite/zt-1fdp66lhz-LxTIET753T1DrfkAqIsA4w
+https://mathworksatghc22.slack.com/join/shared_invite/zt-1ggqzmpwl-Cc7TzRc8YMtTgpKjfOzmRQ
 
 ## Step I. Set Up Your MathWorks Account 
 If you don’t have a MathWorks account, you need to create one to get access to MATLAB Online and the material for this event. You will need access to your email on the machine you are using to create the account. 
